@@ -1,0 +1,20 @@
+id: PD8D8BFC8
+initial_creation_type: input
+source_metadata:
+  title: Vajrayoginī Series
+  language: en
+  description: 'Texts related to the deity Vajrayoginī (rdo rje rnal ''byor ma):'
+  volume:
+    f7918247c798412cbdd0a98320803d94:
+      title: An Aspirational Prayer to Behold the Beautiful Face of Khecharī
+      parent: Aspiration Prayers
+    49a571863d2944789a8c404312083a7f:
+      title: 'The Staircase Ascending to Khecara: A Praise in Accord with the Arrangement
+        of the Realm of Holy Nāro Khecarī'
+      parent: Praise
+    74dd18504f384b4690749571c352c505:
+      title: 'Harmonious Clouds of Sublime and Lasting Bliss: A Vajra Song for the
+        Tsok Feast Offering to Venerable and Exalted Vajrayoginī'
+      parent: Songs
+created_at: '2022-03-01T06:34:02.894410'
+last_modified_at: '2022-03-01T06:34:02.894421'
